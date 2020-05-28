@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class IndexController {
 
-//456
+//123
 	@RequestMapping("/index")
 	public String index() {
 		return "index";
